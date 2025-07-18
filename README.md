@@ -1,4 +1,4 @@
-# Minecraft Iventory Editor
+# Minecraft Inventory Editor
 A simple visual inventory editor for latest Minecraft Java edition versions - free and open source.
 
 ![Starting Page](https://raw.githubusercontent.com/corv1njano/minecraft-iventory-editor/refs/heads/main/docs/img/start041.png)
